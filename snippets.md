@@ -1,7 +1,6 @@
-#### Initialising 2D Vector
-
+### All standard library
 ```cpp
-vector<vector<int>> dp (i+1,vector <int> (j+1, -1));
+<bits/stdc++.h>
 ```
 
 #### Dijkstra's
